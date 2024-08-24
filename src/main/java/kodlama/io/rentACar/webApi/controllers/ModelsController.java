@@ -43,3 +43,4 @@ public class ModelsController {
         this.modelService.delete(id);
     }
 }
+
